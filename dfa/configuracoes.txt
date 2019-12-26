@@ -1,0 +1,9 @@
+Initial state:0
+Admission state:{2}
+Number of states:3
+START
+	0		1
+0	1		0
+1	1		2
+2	2		2
+END
